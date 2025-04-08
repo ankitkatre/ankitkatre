@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💼 About Me  
-I'm a detail-oriented data analyst with a keen interest in transforming raw data into meaningful insights to support decision-making. I'm constantly learning and growing in the field of data science, and I enjoy working on projects that challenge me to think analytically.
+I'm a detail-oriented data analyst interested in transforming raw data into meaningful insights to support decision-making. I'm constantly learning and growing in data science, and I enjoy working on projects that challenge me to think analytically.
 
 ---
 
@@ -66,9 +66,6 @@ I'm a detail-oriented data analyst with a keen interest in transforming raw data
 
 - **📊 Sales Dashboard in Power BI**  
   _Analyzed sales data and built an interactive dashboard to track revenue trends, regional performance, and top products._
-
-- **📉 Customer Churn Prediction using Python & SQL**  
-  _Built a logistic regression model to predict customer churn using Python and visualized insights with matplotlib and seaborn._
 
 - **📈 Web Scraping & Data Visualization Project**  
   _Scraped product pricing data from e-commerce sites and visualized price fluctuations using Plotly._
